@@ -1,0 +1,11 @@
+{
+  "name": "2026-08-24-circuit-breaker-resilience",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Circuit Breaker & Fallback Resilience Verification in TypeScript",
+  "scripts": {
+    "bad": "node bad_example.ts",
+    "good": "node good_example.ts",
+    "compare": "node run_comparison.ts"
+  }
+}
