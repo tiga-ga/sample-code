@@ -1,0 +1,13 @@
+{
+  "name": "2026-08-26_typescript-branded-types",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "TypeScript Branded Types Verification",
+  "scripts": {
+    "check": "tsc",
+    "test": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
