@@ -7,7 +7,7 @@
 ## 📂 検証ラボ一覧
 
 | 日付 / フォルダ | 主なテーマ | 言語 / 技術 | 検証内容 |
-| :--- | :--- | :--- | :--- |
+| [`2026-08-31_ddd-anti-corruption-layer/`](file:///Users/taiga.ogura/git/study/sample-code/2026-08-31_ddd-anti-corruption-layer/) | **DDD 外部API直結合 vs 腐敗防止層 (ACL)** | TypeScript (Node v25) | 外部レガシー決済APIのモデル汚染（マイナス金額・マジックコード）を遮断し、ACL翻訳とValue Object自己防衛による耐障害性を実証 |
 | [`2026-08-26_typescript-branded-types/`](file:///Users/taiga.ogura/git/study/sample-code/2026-08-26_typescript-branded-types/) | **TypeScript ブランド型（Branded Types / Nominal Typing）** | TypeScript (Node v25) | 単純な型エイリアスの限界（引数順序逆転・異種通貨加算）を克服し、unique symbol によるゼロコスト名目的型安全性を実証 |
 | [`2026-08-24_circuit-breaker-resilience/`](file:///Users/taiga.ogura/git/study/sample-code/2026-08-24_circuit-breaker-resilience/) | **サーキットブレーカー & フォールバック耐障害性** | TypeScript (Node v25) | 『Release It! 第2版』に基づく連鎖障害防止、タイムアウト、サーキットブレーカー（OPEN/HALF-OPEN/CLOSED）検証 |
 

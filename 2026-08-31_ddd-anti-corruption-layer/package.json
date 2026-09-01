@@ -1,0 +1,14 @@
+{
+  "name": "2026-08-31_ddd-anti-corruption-layer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "DDD Anti-Corruption Layer (ACL) vs Direct API Coupling Verification",
+  "scripts": {
+    "check": "tsc",
+    "run:bad": "node bad.ts",
+    "run:good": "node good.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
